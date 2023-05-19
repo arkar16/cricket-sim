@@ -1,0 +1,323 @@
+Australia won the toss and elected to bowl first
+Over: 0, Score: 0-0, Bowler: Mitchell Starc, CRR: 0
+Batter on strike: Rohit Sharma
+0.0 - 3
+Batter on strike: Virat Kohli
+0.1 - 2
+Batter on strike: Virat Kohli
+0.2 - 6
+Batter on strike: Virat Kohli
+0.3 - 3
+Batter on strike: Rohit Sharma
+0.4 - 0
+Batter on strike: Rohit Sharma
+0.5 - 3
+Over: 1, Score: 17-0, Bowler: Mitchell Starc, CRR: 17.0
+Batter on strike: Virat Kohli
+1.0 - 3
+Batter on strike: Rohit Sharma
+1.1 - 2
+Batter on strike: Rohit Sharma
+1.2 - 1
+Batter on strike: Virat Kohli
+1.3 - out
+Virat Kohli is out
+Batter on strike: Rohit Sharma
+1.4 - 3
+Batter on strike: Rohit Sharma
+1.5 - 3
+Over: 2, Score: 29-1, Bowler: Pat Cummins, CRR: 14.5
+Batter on strike: Rohit Sharma
+2.0 - 1
+Batter on strike: Rohit Sharma
+2.1 - 2
+Batter on strike: Rohit Sharma
+2.2 - 3
+Batter on strike: Rohit Sharma
+2.3 - 0
+Batter on strike: Rohit Sharma
+2.4 - 0
+Batter on strike: Rohit Sharma
+2.5 - 4
+Over: 3, Score: 39-1, Bowler: Nathan Lyon, CRR: 13.0
+Batter on strike: Rohit Sharma
+3.0 - out
+Rohit Sharma is out
+Batter on strike: KL Rahul
+3.1 - 2
+Batter on strike: KL Rahul
+3.2 - 0
+Batter on strike: KL Rahul
+3.3 - 1
+Batter on strike: Rohit Sharma
+3.4 - 6
+Batter on strike: Rohit Sharma
+3.5 - 0
+Over: 4, Score: 48-2, Bowler: Pat Cummins, CRR: 12.0
+Batter on strike: KL Rahul
+4.0 - 2
+Batter on strike: KL Rahul
+4.1 - 3
+Batter on strike: Rohit Sharma
+4.2 - 2
+Batter on strike: Rohit Sharma
+4.3 - 4
+Batter on strike: Rohit Sharma
+4.4 - 4
+Batter on strike: Rohit Sharma
+4.5 - 3
+Over: 5, Score: 66-2, Bowler: Josh Hazlewood, CRR: 13.2
+Batter on strike: KL Rahul
+5.0 - 0
+Batter on strike: KL Rahul
+5.1 - out
+KL Rahul is out
+Batter on strike: Cheteshwar Pujara
+5.2 - 3
+Batter on strike: Rohit Sharma
+5.3 - out
+Rohit Sharma is out
+Batter on strike: Cheteshwar Pujara
+5.4 - out
+Cheteshwar Pujara is out
+Batter on strike: Rishabh Pant
+5.5 - 1
+Over: 6, Score: 70-5, Bowler: Pat Cummins, CRR: 11.67
+Batter on strike: Hardik Pandya
+6.0 - 2
+Batter on strike: Hardik Pandya
+6.1 - 2
+Batter on strike: Hardik Pandya
+6.2 - 1
+Batter on strike: Rishabh Pant
+6.3 - 0
+Batter on strike: Rishabh Pant
+6.4 - 2
+Batter on strike: Rishabh Pant
+6.5 - 0
+Over: 7, Score: 77-5, Bowler: Mitchell Starc, CRR: 11.0
+Batter on strike: Hardik Pandya
+7.0 - 0
+Batter on strike: Hardik Pandya
+7.1 - 6
+Batter on strike: Hardik Pandya
+7.2 - out
+Hardik Pandya is out
+Batter on strike: Ajinkya Rahane
+7.3 - 0
+Batter on strike: Ajinkya Rahane
+7.4 - out
+Ajinkya Rahane is out
+Batter on strike: Mayank Agarwal
+7.5 - 3
+Over: 8, Score: 86-7, Bowler: Pat Cummins, CRR: 10.75
+Batter on strike: Rishabh Pant
+8.0 - 1
+Batter on strike: Mayank Agarwal
+8.1 - 1
+Batter on strike: Rishabh Pant
+8.2 - 3
+Batter on strike: Mayank Agarwal
+8.3 - 3
+Batter on strike: Rishabh Pant
+8.4 - 2
+Batter on strike: Rishabh Pant
+8.5 - 2
+Over: 9, Score: 98-7, Bowler: Mitchell Starc, CRR: 10.89
+Batter on strike: Mayank Agarwal
+9.0 - 3
+Batter on strike: Rishabh Pant
+9.1 - 0
+Batter on strike: Rishabh Pant
+9.2 - 4
+Batter on strike: Rishabh Pant
+9.3 - 0
+Batter on strike: Rishabh Pant
+9.4 - 2
+Batter on strike: Rishabh Pant
+9.5 - 0
+Over: 10, Score: 107-7, Bowler: Nathan Lyon, CRR: 10.7
+Batter on strike: Mayank Agarwal
+10.0 - 4
+Batter on strike: Mayank Agarwal
+10.1 - 0
+Batter on strike: Mayank Agarwal
+10.2 - out
+Mayank Agarwal is out
+Batter on strike: Ravindra Jadeja
+10.3 - 2
+Batter on strike: Ravindra Jadeja
+10.4 - 0
+Batter on strike: Ravindra Jadeja
+10.5 - 3
+Over: 11, Score: 116-8, Bowler: Nathan Lyon, CRR: 10.55
+Batter on strike: Rishabh Pant
+11.0 - 4
+Batter on strike: Rishabh Pant
+11.1 - 1
+Batter on strike: Ravindra Jadeja
+11.2 - 4
+Batter on strike: Ravindra Jadeja
+11.3 - 3
+Batter on strike: Rishabh Pant
+11.4 - 2
+Batter on strike: Rishabh Pant
+11.5 - 0
+Over: 12, Score: 130-8, Bowler: Josh Hazlewood, CRR: 10.83
+Batter on strike: Ravindra Jadeja
+12.0 - out
+Ravindra Jadeja is out
+Batter on strike: Ravichandran Ashwin
+12.1 - 2
+Batter on strike: Ravichandran Ashwin
+12.2 - out
+Ravichandran Ashwin is out
+
+BATTING STATS
+Virat Kohli: 14 (5)
+Rohit Sharma: 44 (21)
+KL Rahul: 8 (7)
+Cheteshwar Pujara: 3 (2)
+Rishabh Pant: 24 (17)
+Hardik Pandya: 11 (6)
+Ajinkya Rahane: 0 (2)
+Mayank Agarwal: 14 (7)
+Ravindra Jadeja: 12 (6)
+Ravichandran Ashwin: 2 (2)
+Jasprit Bumrah: 0 (0)
+
+Total: 132-10
+
+BOWLING STATS
+Pat Cummins: 0-47 (4)
+Josh Hazlewood: 5-6 (2)
+Mitchell Starc: 3-47 (4)
+Nathan Lyon: 2-32 (3)
+Australia needs 133 runs to win in 20 overs at RR of 6.65
+Over: 0, Score: 0-0, Bowler: Jasprit Bumrah, CRR: 0, RRR: 6.65, Runs needed: 133 in 120 balls
+Batter on strike: David Warner
+0.0 - 2
+Batter on strike: David Warner
+0.1 - 3
+Batter on strike: Steve Smith
+0.2 - 3
+Batter on strike: David Warner
+0.3 - 3
+Batter on strike: Steve Smith
+0.4 - 6
+Batter on strike: Steve Smith
+0.5 - 2
+Over: 1, Score: 19-0, Bowler: Jasprit Bumrah, CRR: 19.0, RRR: 6.0, Runs needed: 114 in 114 balls
+Batter on strike: David Warner
+1.0 - 3
+Batter on strike: Steve Smith
+1.1 - 2
+Batter on strike: Steve Smith
+1.2 - 4
+Batter on strike: Steve Smith
+1.3 - 6
+Batter on strike: Steve Smith
+1.4 - 3
+Batter on strike: David Warner
+1.5 - 2
+Over: 2, Score: 39-0, Bowler: Jasprit Bumrah, CRR: 19.5, RRR: 5.22, Runs needed: 94 in 108 balls
+Batter on strike: Steve Smith
+2.0 - 6
+Batter on strike: Steve Smith
+2.1 - 6
+Batter on strike: Steve Smith
+2.2 - 2
+Batter on strike: Steve Smith
+2.3 - 2
+Batter on strike: Steve Smith
+2.4 - 4
+Batter on strike: Steve Smith
+2.5 - 3
+Over: 3, Score: 62-0, Bowler: Ravindra Jadeja, CRR: 20.67, RRR: 4.18, Runs needed: 71 in 102 balls
+Batter on strike: David Warner
+3.0 - out
+Batter on strike: David Warner
+3.1 - 2
+Batter on strike: David Warner
+3.2 - out
+Batter on strike: Marnus Labuschagne
+3.3 - 1
+Batter on strike: Steve Smith
+3.4 - 3
+Batter on strike: Marnus Labuschagne
+3.5 - 1
+Over: 4, Score: 69-2, Bowler: Ravindra Jadeja, CRR: 17.25, RRR: 4.0, Runs needed: 64 in 96 balls
+Batter on strike: Steve Smith
+4.0 - 0
+Batter on strike: Steve Smith
+4.1 - 4
+Batter on strike: Steve Smith
+4.2 - 6
+Batter on strike: Steve Smith
+4.3 - 4
+Batter on strike: Steve Smith
+4.4 - 4
+Batter on strike: Steve Smith
+4.5 - 3
+Over: 5, Score: 90-2, Bowler: Ravindra Jadeja, CRR: 18.0, RRR: 2.87, Runs needed: 43 in 90 balls
+Batter on strike: Marnus Labuschagne
+5.0 - 1
+Batter on strike: Steve Smith
+5.1 - 1
+Batter on strike: Marnus Labuschagne
+5.2 - 3
+Batter on strike: Steve Smith
+5.3 - 1
+Batter on strike: Marnus Labuschagne
+5.4 - 6
+Batter on strike: Marnus Labuschagne
+5.5 - 2
+Over: 6, Score: 104-2, Bowler: Jasprit Bumrah, CRR: 17.33, RRR: 2.07, Runs needed: 29 in 84 balls
+Batter on strike: Steve Smith
+6.0 - 3
+Batter on strike: Marnus Labuschagne
+6.1 - 2
+Batter on strike: Marnus Labuschagne
+6.2 - 1
+Batter on strike: Steve Smith
+6.3 - 4
+Batter on strike: Steve Smith
+6.4 - 6
+Batter on strike: Steve Smith
+6.5 - 3
+Over: 7, Score: 123-2, Bowler: Mohammed Shami, CRR: 17.57, RRR: 0.77, Runs needed: 10 in 78 balls
+Batter on strike: Marnus Labuschagne
+7.0 - 1
+Batter on strike: Steve Smith
+7.1 - 0
+Batter on strike: Steve Smith
+7.2 - 3
+Batter on strike: Marnus Labuschagne
+7.3 - out
+Batter on strike: Matthew Wade
+7.4 - 3
+Batter on strike: Steve Smith
+7.5 - 4
+
+BATTING STATS
+Steve Smith: 98 (29)
+David Warner: 15 (8)
+Marnus Labuschagne: 18 (10)
+Matthew Wade: 3 (1)
+Travis Head: 0 (0)
+Marcus Stoinis: 0 (0)
+Alex Carey: 0 (0)
+Pat Cummins: 0 (0)
+Mitchell Starc: 0 (0)
+Nathan Lyon: 0 (0)
+Josh Hazlewood: 0 (0)
+
+Total: 134-3
+
+BOWLING STATS
+Jasprit Bumrah: 0-81 (4)
+Mohammed Shami: 1-11 (1)
+Ravichandran Ashwin: 0-0 (0)
+Ravindra Jadeja: 2-42 (3)
+
+Australia won by 7 wickets with 72 balls remaining
